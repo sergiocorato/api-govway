@@ -1,0 +1,19 @@
+
+http://<indirizzo IP>:8082/govwayConsole/
+
+$ mkdir ~/govway_conf
+$ mkdir ~/govway_log
+$ mkdir ~/govway_db
+
+docker run \
+ -e GOVWAY_DEFAULT_ENTITY_NAME=Ente \
+ -e GOVWAY_POP_DB_SKIP=false \
+ -e TZ=Europe/Rome \
+ -p 8080:8080 \
+ -p 8081:8081 \
+ -p 8082:8082 \
+ -p 8009:8009 \
+ -v govway_conf:/etc/govway \
+ -v govway_log:/var/log/govway \
+ -v govway_db:/opt/hsqldb-2.7.1/hsqldb/database \
+linkitaly/govway

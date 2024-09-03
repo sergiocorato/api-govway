@@ -1,5 +1,5 @@
 Un po' di link ad info varie:
-
+https://docs.google.com/document/d/1r_pn2lLJRHsBfk-BJAlDUeWOAZIb0NxI10c8n9Ux3Oc/edit
 https://github.com/OCA/l10n-italy/issues/4098
 https://govway.org/documentazione/console/profiloFatturaPA/index.html
 https://github.com/link-it/govway

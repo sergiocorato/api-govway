@@ -1,3 +1,9 @@
+Un po' di link ad info varie:
+
+https://github.com/OCA/l10n-italy/issues/4098
+https://govway.org/documentazione/console/profiloFatturaPA/index.html
+https://github.com/link-it/govway
+https://govway.readthedocs.io/it/latest/console/profiloFatturaPA/attiva/invioFatture.html
 
 http://<indirizzo IP>:8082/govwayConsole/
 
